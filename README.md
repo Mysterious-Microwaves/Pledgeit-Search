@@ -49,10 +49,9 @@ Used to maintain an project index for elasticsearch to work for pledgeit.
 ```
 brew install yarn
 brew install postgresql
+```
 
 View elasticsearch installation [here](https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html)
-
-```
 
 ## Database Initialization
 
